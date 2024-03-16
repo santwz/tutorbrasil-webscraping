@@ -29,3 +29,7 @@ Sempre gostei de resolver problemas, então o objetivo foi verificar todas as mi
 |     1      | Física - IME/ITA                        |
 
 O código do projeto pode ser acessado <a href="https://github.com/santwz/tutorbrasil-webscraping/blob/main/tutorbrasil-webscraping.ipynb"> clicando aqui </a>
+
+# Próximos passos
+
+Usar um modelo LLM e dar tag's para cada uma das questões resolvidas. Por exemplo, se a questão resolvida é de `trigonometria`, `álgebra`, `análise combinatória`, etc.
