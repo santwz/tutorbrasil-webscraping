@@ -1,6 +1,6 @@
 # Introdução
 
-O objetivo desse projeto foi colocar em prática o que eu aprendi sobre Web Scraping, com  algo que fosse divertido e tendo alguma originialidade. 
+O contexto desse projeto foi colocar em prática o que eu aprendi sobre Web Scraping, com  algo que fosse divertido e tendo alguma originialidade. 
 
 Sempre gostei de resolver problemas, então o objetivo foi verificar todas as minhas respostas marcadas como solução no fórum <a href="https://www.tutorbrasil.com.br/forum/"> TutorBrasil </a> e categorizar cada uma delas.
 
